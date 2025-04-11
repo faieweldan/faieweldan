@@ -1,15 +1,12 @@
 ```markdown
 
 ## About Me
-```typescript
 const Rifaie = {
   name: "Rifaie Wildani Nazori",
-  role: "Computer Engineering @Penn State (Minor in Cybersecurity)",
-  location: "State College, PA (GMT-4)",
-  focus: ["Cloud", "AI/ML", "Frontend Dev", "System Design"],
-  traits: ["curious", "coachable", "AI tinkerer", "student dev"],
-  goals: ["land an internship", "launch a side project", "build in public"]
+  origin: "Kuantan, Pahang 🇲🇾",
+  role: "Computer Engineering Student @Penn State (Minor in Cybersecurity)",  
 };
+
 ```
 
 ---
