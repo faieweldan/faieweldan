@@ -1,7 +1,3 @@
-Nice! I’ve added your Instagram handle at the bottom with a clickable badge. Here's the updated version of your `README.md` with the Instagram section included:
-
----
-
 ```markdown
 > *"Still learning. Still building — one experiment at a time."*
 
