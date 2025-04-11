@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Rifaie 👋
 
-<!--
-**faieweldan/faieweldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering @Penn State | 💻 Passionate about Cloud, AI/ML, and Full-Stack Dev  
+🌱 Building in public | 🚀 Always exploring new ideas  
+🔭 Currently working on: AI-based car service platform & HuggingFace projects  
+📫 Reach me at: rifaiewildani@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, JavaScript, Tailwind CSS, ShadCN/UI  
+**Backend:** Node.js, Express, Python, Flask  
+**Database:** PostgreSQL, Firebase, MongoDB  
+**Cloud & DevOps:** AWS, Docker, Vercel, GitHub Actions  
+
+![Rifaie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faieweldan&show_icons=true&theme=radical)
