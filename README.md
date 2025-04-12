@@ -1,10 +1,9 @@
-```markdown
-
 ## About Me
+```typescript
 const Rifaie = {
   name: "Rifaie Wildani Nazori",
   origin: "Kuantan, Pahang 🇲🇾",
-  role: "Computer Engineering Student @Penn State (Minor in Cybersecurity)",  
+  role: "Junior-year Computer Engineering student @ Penn State (Minor in Cybersecurity)"
 };
 
 ```
